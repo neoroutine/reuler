@@ -1,4 +1,4 @@
-![REULER](reuler.png)
+<img src="reuler.png" width="400" height="300">
 
 # 🦀`REULER`📏 
 
