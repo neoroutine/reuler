@@ -1,4 +1,4 @@
-# REULER
+# 🦀REULER📏 
 
 ## Summary
 Very [__Rusty__](https://www.rust-lang.org/fr) implementations of [Project Euler](https://projecteuler.net/) problem solutons.
