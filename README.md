@@ -1,3 +1,5 @@
+![REULER](reuler.png)
+
 # 🦀`REULER`📏 
 
 ## Summary
@@ -30,3 +32,5 @@ Factors = [71, 839, 1471, 6857] (Max = 6857)
 ## TODO
 - Multiple solutions to one problem (`3.rs`, `3_a.rs`, `3_1.rs`, ...)
 - Comment stuff :)
+
+
